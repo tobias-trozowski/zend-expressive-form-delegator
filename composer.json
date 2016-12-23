@@ -1,6 +1,6 @@
 {
     "name": "tobias/zend-expressive-form-delegator",
-    "description": "FormElementManager delegator to pickup forms, fieldsets and elements from config.",
+    "description": "FormElementManager delegator to create forms, fieldsets and elements from config.",
     "type": "library",
     "homepage": "https://github.com/tobias-trozowski/zend-expressive-form-delegator",
     "license": "MIT",
@@ -13,9 +13,14 @@
     ],
     "support": {
         "issues": "https://github.com/tobias-trozowski/zend-expressive-form-delegator/issues",
-        "wiki": "https://github.com/tobias-trozowski/zend-expressive-form-delegator/wiki",
         "source": "https://github.com/tobias-trozowski/zend-expressive-form-delegator/tree/master"
     },
+    "keywords": [
+        "zend",
+        "expressive",
+        "form",
+        "delegator"
+    ],
     "prefer-stable": true,
     "require": {
         "php": "^5.6 || ^7.0",
