@@ -4,6 +4,7 @@
 [![Total Downloads](https://poser.pugx.org/tobias/zend-expressive-form-delegator/downloads)](https://packagist.org/packages/tobias/zend-expressive-form-delegator)
 [![Build Status](https://travis-ci.org/tobias-trozowski/zend-expressive-form-delegator.svg?branch=master)](https://travis-ci.org/tobias-trozowski/zend-expressive-form-delegator)
 [![Coverage Status](https://coveralls.io/repos/tobias-trozowski/zend-expressive-form-delegator/badge.svg?branch=master)](https://coveralls.io/r/tobias-trozowski/zend-expressive-form-delegator?branch=master)
+[![License](https://poser.pugx.org/tobias/zend-expressive-form-delegator/license)](https://packagist.org/packages/tobias/zend-expressive-form-delegator)
 
 Delegator for Zend [FormElementManager](https://github.com/zendframework/zend-form)
 
